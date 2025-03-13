@@ -1,5 +1,5 @@
 import { Routes, Route } from 'react-router-dom'
-import Layout from './components/layout'
+import Layout from './components/Layout'
 import Public from './components/Public'
 import Login from './Features/auth/Login'
 import DashLayout from './components/Dash/DashLayout'
